@@ -9,21 +9,25 @@
     "lint": "next lint --fix"
   },
   "dependencies": {
-    "@sanity/vision": "^3.47.1",
+    "@sanity/icons": "^3.7.4",
+    "@sanity/image-url": "^1.2.0",
+    "@sanity/vision": "^4.22.0",
     "@stripe/stripe-js": "^4.3.0",
     "axios": "^1.7.4",
     "chart.js": "^4.4.4",
     "next": "14.2.3",
     "next-auth": "^4.24.7",
     "next-auth-sanity": "^1.5.3",
-    "next-sanity": "^9.4.2",
+    "next-sanity": "^11.6.12",
     "react": "^18",
     "react-chartjs-2": "^5.2.0",
     "react-datepicker": "^7.3.0",
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
     "react-icons": "^5.2.1",
+    "sanity": "^4.22.0",
     "stripe": "^16.8.0",
+    "styled-components": "^6.3.8",
     "swr": "^2.2.5"
   },
   "devDependencies": {
